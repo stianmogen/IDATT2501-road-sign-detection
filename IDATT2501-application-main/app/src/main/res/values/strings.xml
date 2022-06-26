@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IDATT2501</string>
+    <string name="imageview">imageview</string>
+    <string name="inferencehere">inferencehere</string>
+    <string name="validate">validate</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cacnel">Cacnel</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+</resources>

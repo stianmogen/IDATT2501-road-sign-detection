@@ -1,0 +1,9 @@
+IDATT2501-application: 
+
+Inneholder android application
+https://github.com/stianmogen/IDATT2501-application
+
+Road-Sign-Detection:
+
+Inneholder maskinlæringsmodell og python kode. 
+https://github.com/simojens/Road-Sign-Detection

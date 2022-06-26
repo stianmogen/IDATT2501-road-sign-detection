@@ -1,0 +1,3 @@
+rootProject.name = "IDATT2501"
+include ':app'
+include ':openCVLibrary3414'
